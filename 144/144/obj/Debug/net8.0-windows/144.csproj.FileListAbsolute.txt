@@ -1,0 +1,16 @@
+C:\Users\renji\source\repos\144\144\bin\Debug\net8.0-windows\144.exe
+C:\Users\renji\source\repos\144\144\bin\Debug\net8.0-windows\144.deps.json
+C:\Users\renji\source\repos\144\144\bin\Debug\net8.0-windows\144.runtimeconfig.json
+C:\Users\renji\source\repos\144\144\bin\Debug\net8.0-windows\144.dll
+C:\Users\renji\source\repos\144\144\bin\Debug\net8.0-windows\144.pdb
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\_144.Form1.resources
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.csproj.GenerateResource.cache
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.AssemblyInfoInputs.cache
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.AssemblyInfo.cs
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.csproj.CoreCompileInputs.cache
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.dll
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\refint\144.dll
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.pdb
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\144.genruntimeconfig.cache
+C:\Users\renji\source\repos\144\144\obj\Debug\net8.0-windows\ref\144.dll

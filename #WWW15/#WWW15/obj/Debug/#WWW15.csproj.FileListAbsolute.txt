@@ -1,0 +1,10 @@
+C:\Users\renji\source\repos\#WWW15\#WWW15\bin\Debug\#WWW15.exe.config
+C:\Users\renji\source\repos\#WWW15\#WWW15\bin\Debug\#WWW15.exe
+C:\Users\renji\source\repos\#WWW15\#WWW15\bin\Debug\#WWW15.pdb
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\#WWW15.csproj.AssemblyReference.cache
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\_WWW15.Form1.resources
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\_WWW15.Properties.Resources.resources
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\#WWW15.csproj.GenerateResource.cache
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\#WWW15.csproj.CoreCompileInputs.cache
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\#WWW15.exe
+C:\Users\renji\source\repos\#WWW15\#WWW15\obj\Debug\#WWW15.pdb
